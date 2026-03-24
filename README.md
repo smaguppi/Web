@@ -1,1 +1,1 @@
-#sma-guppi-salawati/
+sma-guppi-salawati/
